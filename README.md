@@ -2,7 +2,7 @@
 
 ## Overview
 
-🚀 Welcome to the Power bi Project This repository highlights an exciting Power BI project that  Dives into the world of data visualization and analytics to uncover valuable insights into customer behavior, product performance, and currency impacts.
+🚀 Welcome to the Power BI Project This repository highlights an exciting Power BI project that  Dives into the world of data visualization and analytics to uncover valuable insights into  behavior, product Profit, and currency impacts.
 
 ## Project Highlights
 
@@ -17,13 +17,13 @@
 
 📈 **Crafted Insightful Dashboards:**
    - Presented 2 dynamic dashboards providing a view of the business:</br>
-     1️⃣ **Overview Dashboard:** Uncover valuable insights into behavior, performance, and trends.</br>
+     1️⃣ **Overview Dashboard:** Uncover valuable insights into behavior, performance Maps, and trends.</br>
      
      ![Overview](https://github.com/Abdelnaem2002/Import-Company_Vis/assets/58599482/e6553aa3-49c3-49e1-9394-fe73a29913c0)
 
 
 
-     2️⃣ **Page Two Dashboard:** Dive deep into product performance, sales.
+     2️⃣ **Page Two Dashboard:** Dive deep into product performance, and sales.
      </br>
      ![page_two](https://github.com/Abdelnaem2002/Import-Company_Vis/assets/58599482/b6b33120-fd3d-4082-81d1-6aeb7b41f17c)
 
@@ -31,7 +31,7 @@
 ### 3. Visual Storytelling
 
 🎨 **Visual Storytelling:**
-   - Emphasized the power of visual storytelling through Power bi's intuitive design, transforming raw data into actionable insights. 🖼️📈
+   - Emphasized the power of visual storytelling through Power BI's intuitive design, transforming raw data into actionable insights. 🖼️📈
 
 ### 5. Impactful Decision-Making
 
